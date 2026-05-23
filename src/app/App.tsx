@@ -379,6 +379,11 @@ export default function App() {
                 <a href="#home" className="block text-gray-400 hover:text-white transition-colors">Home</a>
                 <a href="#fleet" className="block text-gray-400 hover:text-white transition-colors">Our Fleet</a>
                 <a href="#about" className="block text-gray-400 hover:text-white transition-colors">About Us</a>
+                <a href="/taxi-service-in-patna" className="block text-gray-400 hover:text-white transition-colors">Taxi Service in Patna</a>
+                <a href="/airport-cab-service-patna" className="block text-gray-400 hover:text-white transition-colors">Airport Cab Service Patna</a>
+                <a href="/outstation-cab-patna" className="block text-gray-400 hover:text-white transition-colors">Outstation Cab Patna</a>
+                <a href="/wedding-car-rental-patna" className="block text-gray-400 hover:text-white transition-colors">Wedding Car Rental Patna</a>
+                <a href="/tempo-traveller-patna" className="block text-gray-400 hover:text-white transition-colors">Tempo Traveller Patna</a>
               </div>
             </div>
           </div>

@@ -1,4 +1,4 @@
-const fallbackSiteUrl = "https://maa-laxmi-travels.showa.online";
+const fallbackSiteUrl = "https://maalakshmitourandtravels.in";
 const configuredSiteUrl = process.env.NEXT_PUBLIC_SITE_URL?.trim();
 
 const absoluteSiteUrl =
@@ -15,7 +15,7 @@ export const siteBaseUrl = new URL(normalizedSiteUrl).origin;
 export const siteConfig = {
   name: "Maa Lakshmi Tour and Travels",
   description:
-    "Book trusted local and outstation taxi service with Maa Lakshmi Tour and Travels. Comfortable cars for family trips, weddings, events, and daily travel.",
+    "Book trusted taxi service in Patna with Maa Lakshmi Tour and Travels. Local, airport, and outstation cabs for family trips, weddings, events, and Bihar tours.",
   phone: "+91 94316 74083",
   email: "maalakshmitourandtravels@gmail.com",
   location: "Patna, Bihar, India",
