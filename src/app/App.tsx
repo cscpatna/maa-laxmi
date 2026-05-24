@@ -369,7 +369,7 @@ export default function App() {
             </div>
             <div>
               <h3 className="text-lg mb-4">Contact</h3>
-              <p className="text-gray-400 mb-2">Phone: +91 94316 74083</p>
+              <p className="text-gray-400 mb-2">Phone: +91 94316 74083 <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +91 62066 54718</p>
               <p className="text-gray-400 mb-2">Email: maalakshmitourandtravels@gmail.com </p>
               <p className="text-gray-400">Location: India</p>
             </div>
