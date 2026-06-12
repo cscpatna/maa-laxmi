@@ -5,7 +5,7 @@ import { Phone, CheckCircle, Shield, DollarSign, Clock, Users, Car, Sparkles, Me
 import sendMail from './lib/Mailer';
 
 export default function App() {
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState({ 
     name: '',
     contact: '',
     pickup: '',
